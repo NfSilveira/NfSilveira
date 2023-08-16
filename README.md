@@ -1,8 +1,17 @@
 ### Hi there! 👋 My name is Nicolas!
 
 - 🔭 I’m currently working as a Python Back-end Junior Developer
-- 🌱 I’m currently learning a lot of things about front-end, back-end, databases, network, and cyber security!
+- 🌱 I’m currently learning a lot of things at college and online courses about front-end, back-end, databases, network, and cyber security!
 - 😄 I'm currently aiming for a new job/internship in the Cyber Security area, and I want to pursue the career of an Ethical Hacker/Cyber Securiy Specialist!
+- ⚡ Fun fact about me: I have the Cisco Python Essentials I Badge, and am studying to obtain the Junior Cybersecurity Analist Career Path Badge!
+
+
+### Olá! 👋 Eu sou o Nicolas!
+
+- 🔭 Estou trabalhando atualmente como um Desenvolvedor Júnior de Back-end com Python
+- 🌱 Atualmente, estou estudando muitas coisas na faculdade e cursos online sobre front-end, back-end, bancos de dados, redes, e cyber security!
+- 😄 Atualmente estou buscando um novo emprego/estágio na área de Cyber Security, e quero seguir a carreira de Hacker Ético/Especialista em Cyber Security!
+- ⚡ Uma coisa interessante sobre mim: Eu tenho a Badge de Python Essentials I da Cisco, e estou estudando para obter a Badge de Analista de Cybersecurity Júnior!
 
 <!--
 **NfSilveira/NfSilveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
