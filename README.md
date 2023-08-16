@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there! 👋 My name is Nicolas!
+
+- 🔭 I’m currently working as a Python Back-end Junior Developer
+- 🌱 I’m currently learning a lot of things about front-end, back-end, databases, network, and cyber security!
+- 😄 I'm currently aiming for a new job/internship in the Cyber Security area, and I want to pursue the career of an Ethical Hacker/Cyber Securiy Specialist!
 
 <!--
 **NfSilveira/NfSilveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
