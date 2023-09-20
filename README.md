@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a Python Back-end Junior Developer
 - 🌱 I’m currently learning a lot of things at college and online courses about front-end, back-end, databases, network, and cyber security!
-- 😄 I'm currently aiming for a new job/internship in the Cyber Security area, and I want to pursue the career of an Ethical Hacker/Cyber Securiy Specialist!
+- 😄 I'm currently aiming for a new job/internship in the Cyber Security area, and I want to pursue the career of an Ethical Hacker/Cyber Security Specialist!
 - ⚡ Fun fact about me: I have the Cisco Python Essentials I Badge, and am studying to obtain the Junior Cybersecurity Analist Career Path Badge!
 
 
