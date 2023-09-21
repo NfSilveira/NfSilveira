@@ -32,7 +32,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
-### Tenho Experiência por Cursos Externos(I have Experience with due to External Courses):
+### 📜 Tenho Experiência por Cursos Externos(I have Experience with due to External Courses):
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
@@ -40,6 +40,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp; -->
 </div>
+
+### 🥇 Minhas Badges(My Badges):
+[![Python Essentials I Badge](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.credly.com%2Forg%2Fcisco%2Fbadge%2Fpython-essentials-1.1&psig=AOvVaw1QrQLla6I4tV8DZWL3BqrG&ust=1695422940890000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPj57-PkvIEDFQAAAAAdAAAAABAD)](https://www.credly.com/badges/051f5e36-d393-4c4f-ae22-5869164edeb2/linked_in?t=ruejaz)
 
 
 ### 🔥 Meus Stats do GitHub(My GitHub Stats):
