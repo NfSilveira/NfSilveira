@@ -13,6 +13,10 @@
 - 😄 Atualmente estou buscando um novo emprego/estágio na área de Cyber Security, e quero seguir a carreira de Hacker Ético/Especialista em Cyber Security!
 - ⚡ Uma coisa interessante sobre mim: Eu tenho a Badge de Python Essentials I da Cisco, e estou estudando para obter a Badge de Analista de Cybersecurity Júnior!
 
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NfSilveira&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <!--
 **NfSilveira/NfSilveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
