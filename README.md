@@ -42,7 +42,7 @@
 </div>
 
 ### 🥇 Minhas Badges(My Badges):
-[![Python Essentials I Badge](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.credly.com%2Forg%2Fcisco%2Fbadge%2Fpython-essentials-1.1&psig=AOvVaw1QrQLla6I4tV8DZWL3BqrG&ust=1695422940890000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPj57-PkvIEDFQAAAAAdAAAAABAD)](https://www.credly.com/badges/051f5e36-d393-4c4f-ae22-5869164edeb2/linked_in?t=ruejaz)
+<a href="https://www.credly.com/badges/051f5e36-d393-4c4f-ae22-5869164edeb2/linked_in?t=ruejaz" target="_blank"><img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" title="TypeScript" alt="TypeScript" width="50" height="50"/></a>&nbsp;
 
 
 ### 🔥 Meus Stats do GitHub(My GitHub Stats):
