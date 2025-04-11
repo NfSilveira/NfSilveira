@@ -1,17 +1,15 @@
 ### Hi there! 👋 My name is Nicolas!
 
-- 🔭 I’m currently working as a Loss Prevention and Security - Business Intelligence Intern
 - 🌱 I’m currently learning a lot of things at college and online courses about front-end, back-end, databases, network, and cyber security!
-- 😄 I'm currently aiming for a new job/internship in the Cyber Security area, and I want to pursue the career of an Ethical Hacker/Cyber Security Specialist!
-- ⚡ Fun fact about me: I have the Cisco Python Essentials I Badge, and am studying to obtain the Junior Cybersecurity Analist Career Path Badge!
+- 😄 I'm currently aiming for a new job/internship as a Back-end Developer / Data Analyst
+- ⚡ Fun fact about me: I have the Cisco Python Essentials I and Introduction to CyberSecurity Badges!
 
 
 ### Olá! 👋 Eu sou o Nicolas!
 
-- 🔭 Estou trabalhando atualmente como um Estagiário de Loss Prevention and Security - BI
 - 🌱 Atualmente, estou estudando muitas coisas na faculdade e cursos online sobre front-end, back-end, bancos de dados, redes, e cyber security!
-- 😄 Atualmente estou buscando um novo emprego/estágio na área de Cyber Security, e quero seguir a carreira de Hacker Ético/Especialista em Cyber Security!
-- ⚡ Uma coisa interessante sobre mim: Eu tenho a Badge de Python Essentials I da Cisco, e estou estudando para obter a Badge de Analista de Cybersecurity Júnior!
+- 😄 Atualmente estou buscando um novo emprego/estágio na área de Desenvolvimento Back-end / Análise de Dados
+- ⚡ Uma coisa interessante sobre mim: Eu tenho as Badges de Python Essentials I e Introduction to Cyber Security!
 
 
 ### 🛠️ Tenho Experiência Com(I Have Professional Experience With):
@@ -42,6 +40,7 @@
 
 ### 🥇 Minhas Badges(My Badges):
 <a target="_blank" href="https://www.credly.com/badges/051f5e36-d393-4c4f-ae22-5869164edeb2/linked_in?t=ruejaz"><img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" title="Python Essentials I Badge" alt="Python Essentials I Badge" width="80" height="80"/></a>&nbsp;
+<a target="_blank" href="https://www.credly.com/badges/5fe2777d-ef84-4450-8ab4-eb31849debc7"><img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" title="Introduction to Cybersecurity Badge" alt="Introduction to Cybersecurity Badge" width="80" height="80"/></a>&nbsp;
 
 
 ### 🔥 Meus Stats do GitHub(My GitHub Stats):
